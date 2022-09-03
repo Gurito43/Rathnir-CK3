@@ -1,2 +1,2 @@
-# Rathnir-CK3
-Rathnir from the stoneworks minecraft server, recreated in Crusader kings 3
+# Rathnir-EU4
+Rathnir from the stoneworks minecraft server, recreated in Europa Universalis 4
