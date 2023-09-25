@@ -1,4 +1,10 @@
 base_tax = 1
 base_manpower = 1
 base_production = 1
-is_city = no
+is_city = yes
+culture = heimalien
+add_core = HEI
+discovered_by = western
+owner = HEI
+trade_goods = gems
+controller = HEI

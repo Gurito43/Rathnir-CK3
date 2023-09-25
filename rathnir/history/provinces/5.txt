@@ -1,4 +1,10 @@
 base_tax = 1
 base_manpower = 1
 base_production = 1
-is_city = no
+is_city = yes
+culture = buktenfjallian
+add_core = BUK
+discovered_by = western
+owner = BUK
+trade_goods = cotton
+controller = BUK

@@ -1,0 +1,6 @@
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+technology_group = western
+capital = 11
+primary_culture = gertek

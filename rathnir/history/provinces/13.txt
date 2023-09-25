@@ -1,4 +1,11 @@
 base_tax = 1
 base_manpower = 1
 base_production = 1
-is_city = no
+is_city = yes
+culture = gertek
+owner = LAN
+controller = LAN
+add_core = LAN
+discovered_by = western
+fort_15th = yes
+trade_goods = livestock

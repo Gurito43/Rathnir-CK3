@@ -1,7 +1,6 @@
 #Uppland, contains Stockholm, Uppsala & Nyk�ping.
 owner = SWE
 controller = SWE
-culture = swedish
 religion = catholic
 base_tax = 1
 base_production = 1

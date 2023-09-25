@@ -1,0 +1,10 @@
+kostuco = {
+	location = 6
+	end = yes
+	color = {
+		0 128 192 
+	}
+	members = {
+		21 
+	}
+}

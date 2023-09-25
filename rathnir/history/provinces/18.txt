@@ -1,4 +1,10 @@
 base_tax = 1
 base_manpower = 1
 base_production = 1
-is_city = no
+is_city = yes
+culture = kranganese
+owner = KRA
+trade_goods = gold
+controller = KRA
+add_core = KRA
+discovered_by = western

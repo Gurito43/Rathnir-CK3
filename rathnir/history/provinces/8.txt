@@ -1,4 +1,11 @@
 base_tax = 1
 base_manpower = 1
 base_production = 1
-is_city = no
+is_city = yes
+culture = rohel
+add_core = ROH
+discovered_by = western
+fort_15th = yes
+owner = ROH
+trade_goods = incense
+controller = ROH

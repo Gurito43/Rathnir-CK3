@@ -1,4 +1,11 @@
 base_tax = 1
 base_manpower = 1
 base_production = 1
-is_city = no
+is_city = yes
+culture = sisilik
+add_core = FJE
+discovered_by = western
+fort_15th = yes
+owner = FJE
+trade_goods = wool
+controller = FJE

@@ -1,4 +1,10 @@
 base_tax = 1
 base_manpower = 1
 base_production = 1
-is_city = no
+is_city = yes
+culture = maldun
+add_core = MAL
+discovered_by = western
+owner = MAL
+trade_goods = cloth
+controller = MAL
